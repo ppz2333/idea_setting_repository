@@ -8,4 +8,13 @@
   <action id="NewClass">
     <keyboard-shortcut first-keystroke="alt n" second-keystroke="j" />
   </action>
+  <action id="NewDir">
+    <keyboard-shortcut first-keystroke="alt n" second-keystroke="p" />
+  </action>
+  <action id="NewFile">
+    <keyboard-shortcut first-keystroke="alt n" second-keystroke="f" />
+  </action>
+  <action id="NewModuleInGroup">
+    <keyboard-shortcut first-keystroke="alt n" second-keystroke="a" />
+  </action>
 </keymap>
