@@ -1,0 +1,11 @@
+<application>
+  <component name="GraziConfig">
+    <option name="userEnabledRules">
+      <set>
+        <option value="ENGLISH_WORD_REPEAT_BEGINNING_RULE" />
+        <option value="ENGLISH_WORD_REPEAT_RULE" />
+      </set>
+    </option>
+    <option name="lastSeenVersion" value="2019.3-6.2.stable" />
+  </component>
+</application>
