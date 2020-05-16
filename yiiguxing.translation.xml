@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Indicates that an annotated class is a &quot;Service&quot;, originally defined by Domain-Driven Design (Evans, 2003) as &quot;an operation offered as an interface that stands alone in the model, with no encapsulated state.&quot; May also indicate that a class is a &quot;Business Service Facade&quot; (in the Core J2EE patterns sense), or something similar. This annotation is a general-purpose stereotype and individual teams may narrow their semantics and use as appropriate. This annotation serves as a specialization of @Component, allowing for implementation classes to be autodetected through classpath scanning." />
+      <item value="defined by Domain-Driven Design (Evans, 2003) as &quot;an operation offered as an interface that stands alone in the model, with no" />
       <item value="Add the supplied attribute under the supplied name." />
       <item value="scan Base Packages" />
       <item value="* Primarily designed for adding attributes to the model." />
@@ -10,7 +12,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6" />
+        <entry key="CHINESE" value="7" />
         <entry key="ENGLISH" value="7" />
       </map>
     </option>
