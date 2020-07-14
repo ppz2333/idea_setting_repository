@@ -1,5 +1,6 @@
 <application>
   <component name="NotificationConfiguration">
+    <notification groupId="Key Promoter X" displayType="NONE" shouldLog="false" />
     <notification groupId="System Health" displayType="STICKY_BALLOON" shouldLog="false" />
   </component>
 </application>
